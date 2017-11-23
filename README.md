@@ -9,7 +9,7 @@ Node alpine image with
 ## Get the image
 
 The image can be found on the Dockerhub
-Hub(https://registry.hub.docker.com/u/psbarrales/node-phantom-gulp-sass).
+Hub(https://registry.hub.docker.com/r/psbarrales/node-phantom-gulp-sass).
 
 ```
 docker pull psbarrales/node-phantom-gulp-sass:latest
