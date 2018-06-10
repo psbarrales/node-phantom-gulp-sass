@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM node:9.11.1-alpine
 MAINTAINER Pablo Barrales <pablo.barrales@peanuthub.cl>
 
 # PACKAGES
